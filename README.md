@@ -1,5 +1,7 @@
 # SmartBiomed Summer School 2026
 
+Christopher Yau, Moritz Gogl and Hanwen Xing
+
 ## Lectures
 
 ### Slides 
