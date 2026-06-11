@@ -1,1 +1,1 @@
-# smartbiomed_summerschool2026
+# SmartBiomed Summer School 2026
