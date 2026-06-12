@@ -70,16 +70,16 @@ If you plan to work locally, install Anaconda and ensure the following packages 
 ## Timetable
 
 | Day | Time | Instructor | Session |
-|-----|------|---------|---------|---------|
+|-----|------|---------|---------|
 | 3 | 09:00–10:20 | Yau |  Introduction to Omics  | 
 | 3 | 10:40–12:00 | Yau | Supervised Learning | 
-| 3 | 13:00–13:30 | Gogl | Practical Lecture: Introduction to Omics-Based Prediction | 
-| 3 | 13:30–16:00 | All | Practical Exercises |
+| 3 | 13:00–13:30 | Gogl | Practical Lecture: Introduction to Omics-based Prediction | 
+| 3 | 13:30–16:00 | All | Practical Exercises: Omics-based Prediction |
 | 4 | 09:00–09:30 | Yau | Introduction to Unsupervised Learning for Omics | 
 | 4 | 09:40–10:40 | Yau | Bayesian Latent Variable Modelling | 
 | 4 | 11:00–12:00 | Yau | Variational inference and foundations of VAEs |
-| 4 | 13:00–14:00 | Xing | Practical Lecture |
-| 4 | 14:00–16:00 | All | Practical Exercises |
+| 4 | 13:00–14:00 | Xing | Practical Lectures: VAEs for multi-omics |
+| 4 | 14:00–16:00 | All | Practical Exercises: VAEs for multi-omics |
 | 5 | 09:00–10:00 | Yau | Introduction to Self-Supervised Learning  |
 | 5 | 10:15–11:00 | Xing | Case Study: MIND |
 | 5 | 11:15–12:00 | Gogl | Case Study: Pathology Reports and TCGA |
