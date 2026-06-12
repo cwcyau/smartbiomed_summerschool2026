@@ -67,8 +67,6 @@ If you plan to work locally, install Anaconda and ensure the following packages 
 
 ## Timetable
 
-## Timetable
-
 | Day | Time | Instructor | Session |
 |-----|------|---------|---------|
 | 3 | 09:00–10:20 | Yau |  Introduction to Omics  | 
