@@ -1,6 +1,24 @@
 
 # SmartBiomed Summer School 2026 - Machine Learning
 
+## Table of Contents
+
+- [Instructors](#instructors)
+- [Course Learning Outcomes](#course-learning-outcomes)
+  - [Supervised Learning](#supervised-learning)
+  - [Unsupervised Learning](#unsupervised-learning)
+  - [Foundation Models](#foundation-models)
+  - [General Skills Across the Course](#general-skills-across-the-course)
+- [Coding and Software Requirements](#coding-and-software-requirements)
+  - [Slack](#slack)
+  - [Google Colab](#google-colab)
+  - [Python Environment](#python-environment)
+- [Timetable](#timetable)
+- [Practical Materials](#practical-materials)
+  - [Supervised Learning Materials](#supervised-learning-materials)
+  - [Unsupervised Learning Materials](#unsupervised-learning-materials)
+- [Additional Reading Materials](#additional-reading-materials)
+
 ## Instructors
 
 - Professor Christopher Yau (Lead)
