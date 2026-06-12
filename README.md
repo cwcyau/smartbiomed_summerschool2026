@@ -49,7 +49,7 @@ Participants will be able to:
 
 ## Coding and Software Requirements
 
-It will be assumed that you are able to program in Python.
+It will be assumed that you are able to program in Python. We are unable to support other languages during the course.
 
 ### Slack
 
