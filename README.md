@@ -95,7 +95,6 @@ pip install torch pandas numpy scikit-learn matplotlib umap-learn
 ```
 
 To verify your installation, run the package-check notebook provided in the course materials. If all required packages are installed correctly, the notebook will report that your environment is ready.
-```
 
 ## Timetable
 
