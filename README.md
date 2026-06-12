@@ -108,13 +108,13 @@ Alternatively, if you prefere to work locally, please install [Anaconda](https:/
 
 ## Practical Materials
 
-### Supervised Learning
+### Supervised Learning Materials
 
 - Omics-based prediction notebook
 - Feature engineering exercises
 - Multimodal modelling exercises
 
-### Unsupervised Learning
+### Unsupervised Learning Materials
 
 - Variational autoencoder notebook
 - Latent space visualisation exercises
