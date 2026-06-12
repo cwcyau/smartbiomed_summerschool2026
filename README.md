@@ -47,15 +47,21 @@ Participants will be able to:
 - Select appropriate machine learning approaches for different omics questions and data modalities.
 - Confidently navigate emerging AI methodologies and assess their relevance to future multi-omics analyses.
 
-## Software Requirements
+## Coding and Software Requirements
+
+It will be assumed that you are able to program in Python.
+
+### Slack
+
+On-course communications will be through a dedicated [Slack](https://slack.com/intl/en-gb) channel. Please install and set up Slack on your device prior to the summer school.
 
 ### Google Colab
 
-
+We have created Python notebooks that can be edited and run in [Google Colab](https://colab.research.google.com/). You will need a valid Google account to use Colab.
 
 ### Python Environment
 
-If you plan to work locally, install Anaconda and ensure the following packages are available before the course:
+Alternatively, if you prefere to work locally, please install [Anaconda](https://www.anaconda.com/download) (or other Python environment) and ensure the following packages are available before the course:
 
 - pandas
 - scikit-learn
