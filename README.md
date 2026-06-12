@@ -79,15 +79,23 @@ We have created Python notebooks that can be edited and run in [Google Colab](ht
 
 ### Python Environment
 
-Alternatively, if you prefere to work locally, please install [Anaconda](https://www.anaconda.com/download) (or other Python environment) and ensure the following packages are available before the course:
+Alternatively, if you prefer to work locally, please install [Anaconda](https://www.anaconda.com/download) (or another Python environment) and ensure the following packages are available before the course:
 
+- torch (>=2.0)
 - pandas
+- numpy
 - scikit-learn
-- umap-learn
-- jupyterlab
 - matplotlib
-- shap
-- xgboost
+- umap-learn
+
+You can install these packages using:
+
+```bash
+pip install torch pandas numpy scikit-learn matplotlib umap-learn
+```
+
+To verify your installation, run the package-check notebook provided in the course materials. If all required packages are installed correctly, the notebook will report that your environment is ready.
+```
 
 ## Timetable
 
