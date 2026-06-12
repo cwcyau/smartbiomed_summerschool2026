@@ -71,7 +71,7 @@ It will be assumed that you are able to program in Python. We are unable to supp
 
 ### Slack
 
-On-course communications will be through a dedicated [Slack](https://slack.com/intl/en-gb) channel. Please install and set up Slack on your device prior to the summer school.
+On-course communications will be through a dedicated [Slack](https://slack.com/intl/en-gb) channel. Please install and set up Slack on your device prior to the summer school. Details of the Slack channel will be given on arrival.
 
 ### Google Colab
 
