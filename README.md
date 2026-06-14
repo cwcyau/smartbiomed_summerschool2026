@@ -68,9 +68,7 @@ Participants will be able to:
 
 ## Prerequisite knowledge
 
-Participants will be assumed to have knowledge of basic linear algebra, matrix-vector notation and manipulation, calculus and probability. Familiarity with basic numeric optimisation techniques are assumed.
-
-Prior reading about Bayesian statistics, such as this tutorial, [Bayesian statistics and modelling](https://www.nature.com/articles/s43586-020-00001-2) would be helpful.
+Participants will be assumed to have knowledge of basic linear algebra, matrix-vector notation and manipulation, calculus and probability. Familiarity with basic numeric optimisation techniques are assumed. Prior reading about Bayesian statistics, such as this tutorial, [Bayesian statistics and modelling](https://www.nature.com/articles/s43586-020-00001-2) would be helpful.
 
 ## Software Requirements
 
