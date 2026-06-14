@@ -134,4 +134,8 @@ To verify your installation, run the package-check notebook provided in the cour
 
 ## Additional Reading Materials
 
-Reading materials, papers and notebooks will be added throughout the course.
+1. [Mathematics for Machine Learning](https://mml-book.github.io/book/mml-book.pdf)
+
+This book explains the mathematical foundations of basic machine learning concepts.
+
+2. [An Introduction to Variational Autoencoders](https://arxiv.org/abs/1906.02691)
