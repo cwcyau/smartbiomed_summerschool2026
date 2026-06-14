@@ -9,7 +9,8 @@
   - [Unsupervised Learning](#unsupervised-learning)
   - [Foundation Models](#foundation-models)
   - [General Skills Across the Course](#general-skills-across-the-course)
-- [Coding and Software Requirements](#coding-and-software-requirements)
+- [Prerequisite knowledge](#prerequisite-knowledge)
+- [Software Requirements](#software-requirements)
   - [Slack](#slack)
   - [Google Colab](#google-colab)
   - [Python Environment](#python-environment)
@@ -27,7 +28,7 @@
 
 ## Course Learning Outcomes
 
-This course provides an introduction to modern machine learning methods for high-dimensional biological and multi-omics data, spanning supervised learning, unsupervised representation learning and emerging foundation models. Participants will learn how to formulate predictive modelling problems, build and evaluate machine learning workflows, and interpret model outputs within a biological context. Through a combination of lectures and hands-on practical sessions, attendees will gain experience working with real omics datasets, implementing neural networks and variational autoencoders, and exploring state-of-the-art approaches based on self-supervised and foundation model paradigms. By the end of the course, participants will be equipped to select appropriate machine learning methodologies for a range of biomedical research questions, critically assess model performance and generalisability, and confidently engage with rapidly evolving AI technologies for future multi-omics analyses.
+This course provides an introduction to modern machine learning methods for high-dimensional biological and multi-omics data, spanning supervised learning, unsupervised representation learning and emerging foundation models. Participants will learn how to formulate predictive modelling problems, build and evaluate machine learning workflows, and interpret model outputs within a biological context. Through a combination of lectures and hands-on practical sessions, attendees will gain experience working with real omics datasets, implementing neural networks and variational autoencoders, and exploring state-of-the-art approaches based on self-supervised and foundation model paradigms. By the end of the course, participants will be equipped to select appropriate machine learning methodologies for a range of biomedical research questions, critically assess model performance and generalisability, and confidently engage with rapidly evolving AI technologies for future multi-omics analyses. This is a mathematically demanding course and participants should be familiar with a range of concepts (see [Prerequisites]()).
 
 ### Supervised Learning
 
@@ -65,7 +66,13 @@ Participants will be able to:
 - Select appropriate machine learning approaches for different omics questions and data modalities.
 - Confidently navigate emerging AI methodologies and assess their relevance to future multi-omics analyses.
 
-## Coding and Software Requirements
+## Prerequisite knowledge
+
+Participants will be assumed to have knowledge of basic linear algebra, matrix-vector notation and manipulation, calculus and probability. Familiarity with basic numeric optimisation techniques are assumed.
+
+Prior reading about Bayesian statistics, such as this tutorial, [Bayesian statistics and modelling](https://www.nature.com/articles/s43586-020-00001-2) would be helpful.
+
+## Software Requirements
 
 It will be assumed that you are able to program in Python. We are unable to support other languages during the course.
 
@@ -100,13 +107,12 @@ To verify your installation, run the package-check notebook provided in the cour
 
 | Day | Time | Instructor | Session |
 |-----|------|---------|---------|
-| 3 | 09:00–10:20 | Yau |  Introduction to Omics  | 
-| 3 | 10:40–12:00 | Yau | Supervised Learning | 
+| 3 | 09:00–10:00 | Yau |  Introduction to Omics  | 
+| 3 | 10:30–12:00 | Yau | Supervised Learning | 
 | 3 | 13:00–13:30 | Gogl | Practical Lecture: Introduction to Omics-based Prediction | 
 | 3 | 13:30–16:00 | All | Practical Exercises: Omics-based Prediction |
 | 4 | 09:00–09:30 | Yau | Introduction to Unsupervised Learning for Omics | 
-| 4 | 09:40–10:40 | Yau | Bayesian Latent Variable Modelling | 
-| 4 | 11:00–12:00 | Yau | Variational inference and foundations of VAEs |
+| 4 | 09:45–12:00 | Yau | Variational inference and foundations of VAEs |
 | 4 | 13:00–14:00 | Xing | Practical Lectures: VAEs for multi-omics |
 | 4 | 14:00–16:00 | All | Practical Exercises: VAEs for multi-omics |
 | 5 | 09:00–10:00 | Yau | Introduction to Self-Supervised Learning  |
