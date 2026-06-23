@@ -131,6 +131,7 @@ To verify your installation, run the package-check notebook provided in the cour
 
 ### Unsupervised Learning Materials
 
+- Link to [Methods extract](exercises/methods.md)
 - Variational autoencoder notebook
 - Latent space visualisation exercises
 - Representation learning exercises
