@@ -109,8 +109,8 @@ To verify your installation, run the package-check notebook provided in the cour
 
 | Day | Time | Instructor | Session |
 |-----|------|---------|---------|
-| 3 | 09:00–10:00 | Yau |  Introduction to Omics  | 
-| 3 | 10:30–12:00 | Yau | Supervised Learning | 
+| 3 | 09:00–10:00 | Yau |  [Introduction to Omics](slides/introduction.pdf)  | 
+| 3 | 10:30–12:00 | Yau | [Supervised Learning](slides/Supervised_Learning.pdf) | 
 | 3 | 13:00–13:30 | Gogl | Practical Lecture: Introduction to Omics-based Prediction | 
 | 3 | 13:30–16:00 | All | Practical Exercises: Omics-based Prediction |
 | 4 | 09:00–09:30 | Yau | Introduction to Unsupervised Learning for Omics | 
