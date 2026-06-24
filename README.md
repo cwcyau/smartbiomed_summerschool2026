@@ -14,7 +14,7 @@
   - [Slack](#slack)
   - [Google Colab](#google-colab)
   - [Python Environment](#python-environment)
-- [Timetable (and links to slides)](#timetable)
+- [Timetable](#timetable)
 - [Practical Materials](#practical-materials)
   - [Supervised Learning Materials](#supervised-learning-materials)
   - [Unsupervised Learning Materials](#unsupervised-learning-materials)
