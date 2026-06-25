@@ -113,7 +113,7 @@ To verify your installation, run the package-check notebook provided in the cour
 | 3 | 10:30–12:00 | Yau | [Supervised Learning](slides/Supervised_Learning.pdf) | 
 | 3 | 13:00–13:30 | Gogl | Practical Lecture: Introduction to Omics-based Prediction | 
 | 3 | 13:30–16:00 | All | Practical Exercises: Omics-based Prediction |
-| 4 | 09:00–12:00 | Yau | [Unsupervised Learning for Omics](Unsupervised_Learning.pdf) | 
+| 4 | 09:00–12:00 | Yau | [Unsupervised Learning for Omics](slides/Unsupervised_Learning.pdf) | 
 | 4 | 13:00–14:00 | Xing | Practical Lectures: VAEs for multi-omics |
 | 4 | 14:00–16:00 | All | Practical Exercises: VAEs for multi-omics |
 | 5 | 09:00–10:00 | Yau | Introduction to Self-Supervised Learning  |
