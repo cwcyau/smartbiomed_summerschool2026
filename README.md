@@ -116,7 +116,7 @@ To verify your installation, run the package-check notebook provided in the cour
 | 4 | 09:00–12:00 | Yau | [Unsupervised Learning for Omics](slides/Unsupervised_Learning.pdf) | 
 | 4 | 13:00–14:00 | Xing | Practical Lectures: VAEs for multi-omics |
 | 4 | 14:00–16:00 | All | Practical Exercises: VAEs for multi-omics |
-| 5 | 09:00–10:00 | Yau | Introduction to Self-Supervised Learning  |
+| 5 | 09:00–10:00 | Yau | [Foundation Models](slides/Foundation_Models.pdf)  |
 | 5 | 10:15–11:00 | Xing | Case Study: MIND |
 | 5 | 11:15–12:00 | Gogl | Case Study: Pathology Reports and TCGA |
 
